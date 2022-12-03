@@ -1,5 +1,12 @@
 # RestoApp
 
+TODO: add docker
+
+<!-- https://itnext.io/angular-with-eslint-prettier-husky-6581ecd66fbb -->
+
+Figma links:
+https://www.figma.com/file/LkQJdRupEVMGOTC1C5KgHD/RestoApp?node-id=0%3A1&t=ZUAEevraEyQgJPGO-0
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
 ## Development server
